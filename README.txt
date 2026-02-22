@@ -1,3 +1,5 @@
+⚠️READ ''IMPORTANT'' (GITHUB)⚠️
+
 SR-512: Deterministic State Recovery
 
 1. Executive Summary
